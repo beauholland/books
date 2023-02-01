@@ -4,5 +4,8 @@ I usually take notes from everything I'm learning in order to make sure I unders
 - [Solution Architects Handbook](books/solution_architects_handbook.md)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](the_managers_path_a_guide_for_tech_leaders.md)
 
+## Courses
+- [Notes from courses watched on Udemy, Pluralsight, A Cloud Guru, etc](courses/courses.md)
+
 ## Certifications
 - [TOGAF 9.2](cert/togaf_udemy.md)

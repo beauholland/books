@@ -492,3 +492,15 @@ Artifacts:
   - Accountability
   - Responsibility
   - Fairness
+- Architecture board = representatibes of all the key stakeholders in the architecture
+- Architecture Contracts
+  - joint agreement between development partners and sponsors on the deliverables, quality, and fit-for-purpose of an architecture
+- Architecture Compliance
+  - Irrelevant = no overlap
+  - Consistent = not perfect
+  - Compliant = 80 out of 100
+  - Conformant = 120 out of 100
+  - Fully conformant = Perfection
+  - Non-conformant = Goes against
+- Compliance Reviews
+  - Make sure architecture is in compliance Phase H
