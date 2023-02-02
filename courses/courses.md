@@ -1,3 +1,10 @@
+
+# 2023-02-02 ACloudGuru: Building Microsoft Azure Logic Apps
+https://learn.acloud.guru/course/e493ba6c-795b-4ec8-8f23-b94310b3808e/overview
+
+
+
+
 # 2023-02-01: Udemy: GitHub Actions - The complete guide
 https://pipefish.udemy.com/course/github-actions-the-complete-guide
 
