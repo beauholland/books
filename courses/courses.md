@@ -1,9 +1,27 @@
 
 # 2023-02-02 ACloudGuru: Building Microsoft Azure Logic Apps
 https://learn.acloud.guru/course/e493ba6c-795b-4ec8-8f23-b94310b3808e/overview
+- ARM Templates
+- Azure Portal "Deploy a custom template" to build your own template
+- Azure DevOps: Azure Resource Manager Template Deployment
+- Azure Log Analytics and Azure Monitor
+  - In new Log Analytics: Overview > Configure monitoring solutions > "View Solutions" > Click "Add"
+  - Search for "Logic App"
+  - Find "Logic Apps Management (Preview)"
+  - Click "Create"
+  - Goto Logic App > Diagnostic settings > Add Diagnostic Settings
+  - Send "Workflow runtime diagnostic setting" + "All Metrics" > send to log analytics workspace
+  - Can take 30 minutes for new diagnostic settings to take effect
+  - To view info in Log Analytics goto "Workspace Summary"
+- Log Analytics Query example
+```
+Azure Diagnostics
+| where ResourceProvider == 'MICROSOFT.LOGIC'
+| where Category == 'WorkflowRunTime'
+| where OperationName has 'workflowTriggerStarted' or OperationName has 'workflowActionStarted'
 
-
-
+```
+- VS Code "Logic App" extension
 
 # 2023-02-01: Udemy: GitHub Actions - The complete guide
 https://pipefish.udemy.com/course/github-actions-the-complete-guide
