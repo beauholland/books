@@ -18,6 +18,30 @@ A solution architect’s responsibilities
 - Solution Design and Delivery
 - Solution Scaling and technology evangelist
 
+
+Layers of the enterprise architecture
+- Environment (the external entities and activities monitored, supported or directed by the business).
+- Business - process activities, use cases
+- Data: stored, collected, organised, secured, distributed
+- Application: COTS, custom, configured
+- Technology arch - networks, cloud, connectivity, generic hardware, network and platform applications
+- Data Architecture
+  - Contextual
+	- Conceptual
+	- Logical
+	- Physical
+	- As is
+- Architecting for "ilities"
+  - Performance
+	- Useability
+	- Maintainability
+	- Scalability
+	- Availability
+	- Extensibility
+	- Security
+	- Portability
+
+
 Architecure Constraints
 - Quality
 - Time
