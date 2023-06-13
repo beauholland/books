@@ -30,13 +30,11 @@ Business Process Tracking
 - data is gathered automatically no need to insert tracking actions into worklfow
 - business users can see and visualize every transaction
 
-
 # Getting started with Azure Integration Services
 - Market trends: Azure Integration services, Azure Logic Apps roles are on the increase
 - ChatGPT can build logic apps
 - Azure Integration Services, Gartner Leaders
 - June 22 = Logic Apps Aviators Day
-
 
 # What is new in the world of Azure API Management?
 -  The journey to api-first development
@@ -55,3 +53,28 @@ Business Process Tracking
 # API management for microservices in a hybrid and multi-cloud world
 - Policy Outbound set header name ="X-Upstream-url" = context.Request.Url.ToString()
 - Random Load Balancer Policy
+
+# API Security deep dive
+- OWASP Top 10 API Security Threats: https://owasp.org/www-project-api-security/
+- https://www.shodan.io/dashboard
+- CIA Triad = Confidentiality, Integrity, and Availability
+  - Practical Security Handbook - Surviving and Thriving in Azure AIS with the VIA Triad: https://ninocrudele.com/practical-security-handbook-surviving-and-thriving-in-azure-ais-with-the-cia-triad
+  - Azure Resources CIA Decision Matrix
+
+# Experiences releasing APIs to API Management
+- Samuel Kastberg
+- Exported Files:
+  - Spec
+  - Settings file
+  - Parameters file
+  - Sample pipeline
+- API release resources included:
+  - Settings File:
+    - Named Values
+    - Backends
+    - Additional Infomration eg: contact information
+    - Compare with RS Kits config file: https://github.com/Azure/azure-api-management-devops-resource-kit
+  - Parameter Files
+    - Environment Specific settings
+  - Pipelines
+    - Managed Templates
