@@ -78,3 +78,7 @@ Business Process Tracking
     - Environment Specific settings
   - Pipelines
     - Managed Templates
+
+
+# Logic Apps standard - The developer experience
+- 
