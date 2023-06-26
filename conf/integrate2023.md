@@ -81,4 +81,9 @@ Business Process Tracking
 
 
 # Logic Apps standard - The developer experience
-- 
+- Call custom .net code using new Logic app action using new Workspace features
+
+
+# Landing safely with Azure Integration Services
+- https://github.com/Azure/Integration-Services-Landing-Zone-Accelerator
+- Includes: Design Considerations, Design Recommendations
