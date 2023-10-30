@@ -12,3 +12,6 @@ I usually take notes from everything I'm learning in order to make sure I unders
 
 ## Certifications
 - [TOGAF 9.2](cert/togaf_udemy.md)
+
+## Adhoc
+- [Notes from adhoc sources, youtube, reddit, stackoverflow etc](adhoc/adhoc.md)
