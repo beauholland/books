@@ -22,3 +22,5 @@ Study Guides:
   - Enterprise Architecture Practitioner (Level 2) Online Self-Study Materials https://shop.opengroup.org/study-materials/togaf/b227
 
 The Togaf Standard (registered users): https://pubs.opengroup.org/togaf-standard/
+
+Lumify Training: https://www.lumifywork.com/en-au/certifications/togaf-10/
